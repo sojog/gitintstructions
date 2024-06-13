@@ -1,1 +1,3 @@
 # gitintstructions
+
+## Instructiuni generale
